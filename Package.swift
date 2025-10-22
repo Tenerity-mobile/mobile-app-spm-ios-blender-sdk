@@ -15,8 +15,8 @@ let package = Package(
     .binaryTarget(
       name: "WLSBlender",
       url:
-        "https://blender.webloyalty.com/swift/3.0.0/WLSBlender.xcframework.zip",
-      checksum: "d4a33dd531a3d5e4c547069c321938f473421d92b344611a4d66c89cf15e11e9"
+        "https://blender.webloyalty.com/swift/3.0.1/WLSBlender.xcframework.zip",
+      checksum: "db860125b9e851c2af69a082967f61d514256694288c950742214ec1f4ce5ca9"
     ),
   ]
 )
